@@ -23,7 +23,7 @@
   <a href="mailto:vinikenji091@gmail.com">
     <img align="center" alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
   </a>
-  <a href="www.linkedin.com/in/vinicius-kenji-okita-eugenio-948593231">
+  <a href="https://www.linkedin.com/in/vinicius-kenji-okita-eugenio-948593231">
     <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
