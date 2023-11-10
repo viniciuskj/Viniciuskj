@@ -1,4 +1,4 @@
-### Hi there my name's Vincius Eugenio👋
+### Hi there my name's Vinicius Eugenio👋
 
 - 🌱 I’m currently learning Software Enginner
 - 💬 Ask me about Java/Python/SQL/Frameworks   
