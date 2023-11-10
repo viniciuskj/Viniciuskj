@@ -5,8 +5,6 @@
 - 📫 How to reach me: vinikenji091@gmail.com
 - ⚡ Fun fact: always listenning musics
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-
 <div>
   <a href="https://beacons.ai/viniciuskj">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuskj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
