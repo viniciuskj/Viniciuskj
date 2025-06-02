@@ -1,7 +1,7 @@
 ### Hi there my name's Vinicius Eugenio👋
 
 - 🌱 I’m currently learning Software Enginner
-- 💬 Ask me about JS/TS/Python/SQL/Frameworks   
+- 💬 Ask me about JS/Node/Python/SQL/Frameworks   
 - 📫 How to reach me: vinikenji091@gmail.com
 
 <div>
