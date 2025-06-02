@@ -1,9 +1,8 @@
 ### Hi there my name's Vinicius Eugenio👋
 
 - 🌱 I’m currently learning Software Enginner
-- 💬 Ask me about Java/Python/SQL/Frameworks   
+- 💬 Ask me about JS/TS/Python/SQL/Frameworks   
 - 📫 How to reach me: vinikenji091@gmail.com
-- ⚡ Fun fact: always listenning musics
 
 <div>
   <a href="https://beacons.ai/viniciuskj">
@@ -14,10 +13,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <a href="mailto:vinikenji091@gmail.com">
     <img align="center" alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
   </a>
