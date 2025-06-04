@@ -4,6 +4,13 @@
 - 💬 Ask me about JS/Node/Python/SQL/Frameworks   
 - 📫 How to reach me: vinikenji091@gmail.com
 
+
+<div>
+  <a href="https://beacons.ai/viniciuskj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuskj&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
